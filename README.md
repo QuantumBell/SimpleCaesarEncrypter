@@ -1,0 +1,1 @@
+My first step into encoding and trying to understand it. I created an input file and two output files (one to encrypt and one output file to decrypt) . It runs well and will decrypt and encrypt files correctly. This was just for fun and I plan on using it as a foundation for future projects!
